@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @SakRoi, a finnish junior developer from Oulu with previous experience with C++, Javascript and Python
-- I will be using this to publish my projects as I learn how to code more and better
+- I will be using this to publish my projects as I learn how to code better
